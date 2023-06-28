@@ -3,8 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Scientific Calculator Engine](https://github.com/wbechtle/JavaSciCalcEng)
-  - [Java Docs Via jGrasp](https://github.com/wbechtle/JavaDocsWithjGrasp)
+  - [Scientific Calculator Engine](https://github.com/wbechtle/JavaSciCalcEng/blob/main/README.md)
+  - [Java Docs Via jGrasp](https://github.com/wbechtle/JavaDocsWithjGrasp/blob/main/README.md)
+  - [Working With Large Data Sets In Files](https://github.com/wbechtle/JavaWorkingWithFiles/blob/main/README.md)
 - <b>Python</b>
   
 <h2> 🤳 Connect with me:</h2>
