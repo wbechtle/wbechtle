@@ -10,6 +10,7 @@
   - [Fun Assembly Language Mimic](https://github.com/wbechtle/FunJavaCalc/blob/main/README.md)
 - <b>Python</b>
   - [Iterative Hash Cracker](https://github.com/wbechtle/PythonHashCracker/blob/main/README.md)
+  - [Easter Calculator CLI](https://github.com/wbechtle/PythonEasterCalcCLI/blob/main/README.md)
   
 <h2> 🤳 Connect with me:</h2>
 
