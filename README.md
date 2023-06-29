@@ -9,6 +9,7 @@
   - [Object Oriented Programming In Java](https://github.com/wbechtle/JavaOOP/blob/main/README.md)
   - [Fun Assembly Language Mimic](https://github.com/wbechtle/FunJavaCalc/blob/main/README.md)
 - <b>Python</b>
+  - [Automated Garden](https://github.com/wbechtle/MicroPythonAutoGarden/blob/main/README.md)
   - [Decorators](https://github.com/wbechtle/PythonDecorators/blob/main/README.md)
   - [Iterators](https://github.com/wbechtle/PythonIterator/blob/main/README.md)
   - [Iterative Hash Cracker](https://github.com/wbechtle/PythonHashCracker/blob/main/README.md)
