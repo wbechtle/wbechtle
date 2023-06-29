@@ -12,6 +12,7 @@
   - [Decorators](https://github.com/wbechtle/PythonDecorators/blob/main/README.md)
   - [Iterators](https://github.com/wbechtle/PythonIterator/blob/main/README.md)
   - [Iterative Hash Cracker](https://github.com/wbechtle/PythonHashCracker/blob/main/README.md)
+  - [Recursion](https://github.com/wbechtle/PythonRecursion/blob/main/README.md)
   - [OOP And Inheritance In Python](https://github.com/wbechtle/PythonOOP/blob/main/README.md)
   - [unittest Module](https://github.com/wbechtle/PythonUnitTesting/blob/main/README.md)
   - [Easter Calculator CLI](https://github.com/wbechtle/PythonEasterCalcCLI/blob/main/README.md)
