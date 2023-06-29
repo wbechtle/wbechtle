@@ -9,11 +9,13 @@
   - [Object Oriented Programming In Java](https://github.com/wbechtle/JavaOOP/blob/main/README.md)
   - [Fun Assembly Language Mimic](https://github.com/wbechtle/FunJavaCalc/blob/main/README.md)
 - <b>Python</b>
+  - [Decorators](https://github.com/wbechtle/PythonDecorators/blob/main/README.md)
   - [Iterative Hash Cracker](https://github.com/wbechtle/PythonHashCracker/blob/main/README.md)
-  - [Easter Calculator CLI](https://github.com/wbechtle/PythonEasterCalcCLI/blob/main/README.md)
-  - [Word Occurrence Counter](https://github.com/wbechtle/PythonWordFreqCount/blob/main/README.md)
   - [OOP And Inheritance In Python](https://github.com/wbechtle/PythonOOP/blob/main/README.md)
   - [unittest Module](https://github.com/wbechtle/PythonUnitTesting/blob/main/README.md)
+  - [Easter Calculator CLI](https://github.com/wbechtle/PythonEasterCalcCLI/blob/main/README.md)
+  - [Word Occurrence Counter](https://github.com/wbechtle/PythonWordFreqCount/blob/main/README.md)
+  
   
 <h2> 🤳 Connect with me:</h2>
 
