@@ -10,6 +10,7 @@
   - [Fun Assembly Language Mimic](https://github.com/wbechtle/FunJavaCalc/blob/main/README.md)
 - <b>Python</b>
   - [Decorators](https://github.com/wbechtle/PythonDecorators/blob/main/README.md)
+  - [Iterators](https://github.com/wbechtle/PythonIterator/blob/main/README.md)
   - [Iterative Hash Cracker](https://github.com/wbechtle/PythonHashCracker/blob/main/README.md)
   - [OOP And Inheritance In Python](https://github.com/wbechtle/PythonOOP/blob/main/README.md)
   - [unittest Module](https://github.com/wbechtle/PythonUnitTesting/blob/main/README.md)
