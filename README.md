@@ -1,28 +1,10 @@
-<h1>Hello, I'm <a href="https://www.linkedin.com/in/wyatt-bechtle-6924aa279/">Wyatt!</a> <br/>Student of Computer Science and Mathematics</h1>
+# Wyatt Bechtle
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## Background
+I am a computer scientist who loves to combine my love for coding with my passion for hardware. For as long as I can remember, I have always been someone who enjoys taking things apart to see what is inside of them. At first, I primarily destroyed most things I touched. However, after much trial and error, I began to not just take things apart, but also repair them. This opened the gates of curiosity for me. From that point on, I have had an underlying urge to discover the inner workings of the things that I do not understand.
 
-- <b>Java</b>
-  - [Scientific Calculator Engine](https://github.com/wbechtle/JavaSciCalcEng/blob/main/README.md)
-  - [Java Docs Via jGrasp](https://github.com/wbechtle/JavaDocsWithjGrasp/blob/main/README.md)
-  - [Working With Large Data Sets In Files](https://github.com/wbechtle/JavaWorkingWithFiles/blob/main/README.md)
-  - [Object Oriented Programming In Java](https://github.com/wbechtle/JavaOOP/blob/main/README.md)
-  - [Fun Assembly Language Mimic](https://github.com/wbechtle/FunJavaCalc/blob/main/README.md)
-- <b>Python</b>
-  - [Automated Garden](https://github.com/wbechtle/MicroPythonAutoGarden/blob/main/README.md)
-  - [Decorators](https://github.com/wbechtle/PythonDecorators/blob/main/README.md)
-  - [Iterators](https://github.com/wbechtle/PythonIterator/blob/main/README.md)
-  - [Iterative Hash Cracker](https://github.com/wbechtle/PythonHashCracker/blob/main/README.md)
-  - [Recursion](https://github.com/wbechtle/PythonRecursion/blob/main/README.md)
-  - [OOP And Inheritance In Python](https://github.com/wbechtle/PythonOOP/blob/main/README.md)
-  - [Small Week Finder GUI](https://github.com/wbechtle/PythonWeekDayFinderGUI/blob/main/README.md)
-  - [unittest Module](https://github.com/wbechtle/PythonUnitTesting/blob/main/README.md)
-  - [Easter Calculator CLI](https://github.com/wbechtle/PythonEasterCalcCLI/blob/main/README.md)
-  - [Word Occurrence Counter](https://github.com/wbechtle/PythonWordFreqCount/blob/main/README.md)
-  
-  
-<h2> 🤳 Connect with me:</h2>
+My High School teacher, Mr. J, picked up on my desire to learn more and provided me with an opportunity to work as a computer lab assistant. Within that position, I learned many things about computer peripherals, software installations and product keys, networking configurations, and password security. After completing High School, I went on to work a multitude of roles in an attempt to discover what I enjoyed most. Despite not having worked within a role that utilizes computer science or coding, I found myself programming for a hobby. Eventually, I had matured into a role at a company, Glassical Designs, which pushed me to sharpen my technical skills and get hands on with hardware. That experience, combined with my hobby of programming, showed me that I wanted to pursue a Bachelor's Degree in Computer Science.
 
-[<img align="left" alt="Wyatt Bechtle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Once I had my eyes set on a Computer Science Degree, I enrolled at Pikes Peak State College and started working as a Junior IT technician. My time at Pikes Peak State College was primarily focused on learning the fundamentals of programming, specifically Python. In addition, my role as a Junior IT technician provided an opportunity to contribute to a large scale Window 11 migration project. During that project, I was able to assist in hardware upgrades like RAM and HDD to SSD. 
 
-[linkedin]: https://www.linkedin.com/in/wyatt-bechtle-6924aa279/
+After spending two years at Pikes Peak State College, I transferred to Concordia St. Paul to finish out my Bachelor of Science. Having been told that computer science was born out of mathematics, I choose to minor in mathematics to better understand the workings of computer science. Along with my studies, I served as the Computer Science Club President, tutored computer science courses, and worked as a Technical Aide at 3M. 
