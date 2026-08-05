@@ -1,5 +1,8 @@
 # Wyatt Bechtle
 
+## Controls Repositories 
+- [Servo Control via Rotary Encoder](https://github.com/wbechtle/sg90_servo_control)
+
 ## Background
 I am a computer scientist who loves to combine my love for coding with my passion for hardware. For as long as I can remember, I have always been someone who enjoys taking things apart to see what is inside of them. At first, I primarily destroyed most things I touched. However, after much trial and error, I began to not just take things apart, but also repair them. This opened the gates of curiosity for me. From that point on, I have had an underlying urge to discover the inner workings of the things that I do not understand.
 
